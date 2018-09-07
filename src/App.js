@@ -21,7 +21,8 @@ class App extends Component {
       });
 
       this.setState({
-        map
+        map,
+        mapView
       });
 
     });
